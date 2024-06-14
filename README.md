@@ -1,1 +1,1 @@
-# data-mining
+This is a repository for UFRJ's Data mining (COC602) class.
